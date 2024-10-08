@@ -1,0 +1,29 @@
+{
+  "hymns": [
+    {
+      "id": 1,
+      "number": 123,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "number": 456,
+      "title": "world"
+    },
+    {
+      "id": 3,
+      "number": 789,
+      "title": "salut"
+    },
+    {
+      "id": 4,
+      "number": 147,
+      "title": "monde"
+    },
+    {
+      "id": 5,
+      "number": 369,
+      "title": "bye"
+    }
+  ]
+}
